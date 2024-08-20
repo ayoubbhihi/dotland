@@ -1,4 +1,9 @@
 [
+   {
+    "image": "https://toollist.ai/toollistai.jpg",
+    "title": "Find the best AI tools for every task",
+    "link": "https://toollist.ai/"
+  },
   {
     "image": "/images/showcase/netlify.png",
     "title": "Netlify Edge Functions",
